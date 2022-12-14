@@ -1,0 +1,66 @@
+D:\Data Structure\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.AssemblyReference.cache
+D:\Data Structure\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.SuggestedBindingRedirects.cache
+D:\Data Structure\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.Form1.resources
+D:\Data Structure\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.Properties.Resources.resources
+D:\Data Structure\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.GenerateResource.cache
+D:\Data Structure\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.CoreCompileInputs.cache
+D:\Data Structure\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.exe.config
+D:\Data Structure\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.exe
+D:\Data Structure\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.pdb
+D:\Data Structure\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.exe
+D:\Data Structure\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.pdb
+D:\Download\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.AssemblyReference.cache
+D:\Download\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.SuggestedBindingRedirects.cache
+D:\Download\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.Form1.resources
+D:\Download\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.Properties.Resources.resources
+D:\Download\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.GenerateResource.cache
+D:\Download\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.CoreCompileInputs.cache
+D:\Download\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.exe
+D:\Download\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.pdb
+D:\Download\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.exe.config
+D:\Download\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.exe
+D:\Download\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.pdb
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.exe.config
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.exe
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\DoAnCTDL\DoAnCTDL\bin\Debug\DoAnCTDL.pdb
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.AssemblyReference.cache
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.Form1.resources
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.Properties.Resources.resources
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.GenerateResource.cache
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.CoreCompileInputs.cache
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.exe
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\DoAnCTDL\DoAnCTDL\obj\Debug\DoAnCTDL.pdb
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\a\DoAnCTDL\bin\Debug\DoAnCTDL.exe.config
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\a\DoAnCTDL\bin\Debug\DoAnCTDL.exe
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\a\DoAnCTDL\bin\Debug\DoAnCTDL.pdb
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\a\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.AssemblyReference.cache
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\a\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\a\DoAnCTDL\obj\Debug\DoAnCTDL.Form1.resources
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\a\DoAnCTDL\obj\Debug\DoAnCTDL.Properties.Resources.resources
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\a\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.GenerateResource.cache
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\a\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.CoreCompileInputs.cache
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\a\DoAnCTDL\obj\Debug\DoAnCTDL.exe
+C:\Users\dangc\OneDrive - ueh.edu.vn\Desktop\a\DoAnCTDL\obj\Debug\DoAnCTDL.pdb
+D:\Download\CTDL_off\DoAnCTDL\bin\Debug\DoAnCTDL.exe.config
+D:\Download\CTDL_off\DoAnCTDL\bin\Debug\DoAnCTDL.exe
+D:\Download\CTDL_off\DoAnCTDL\bin\Debug\DoAnCTDL.pdb
+D:\Download\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.AssemblyReference.cache
+D:\Download\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.SuggestedBindingRedirects.cache
+D:\Download\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.Form1.resources
+D:\Download\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.Properties.Resources.resources
+D:\Download\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.GenerateResource.cache
+D:\Download\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.CoreCompileInputs.cache
+D:\Download\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.exe
+D:\Download\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.pdb
+C:\Users\admin\Downloads\CTDL_off\DoAnCTDL\bin\Debug\DoAnCTDL.exe.config
+C:\Users\admin\Downloads\CTDL_off\DoAnCTDL\bin\Debug\DoAnCTDL.exe
+C:\Users\admin\Downloads\CTDL_off\DoAnCTDL\bin\Debug\DoAnCTDL.pdb
+C:\Users\admin\Downloads\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.Form1.resources
+C:\Users\admin\Downloads\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.Properties.Resources.resources
+C:\Users\admin\Downloads\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.exe
+C:\Users\admin\Downloads\CTDL_off\DoAnCTDL\obj\Debug\DoAnCTDL.pdb
